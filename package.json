@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.cloud.userreporting",
+  "displayName": "Unity User Reporting",
+  "version": "0.1.7-preview",
+  "unity": "2018.3",
+  "description": "This package provides a client for Unity User Reporting. Go to Window > User Reporting > Import Packages to import the User Reporting assets.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.internal.unity3d.com/upm-packages/cloud-services/user-reporting-client.git",
+    "revision": "717ebb0aeafdfd8036b342260ffe5511aa07e4d6"
+  }
+}
